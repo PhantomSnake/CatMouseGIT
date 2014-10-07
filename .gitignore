@@ -7,6 +7,7 @@
 /CatMouse_Prototype 4.3/Content/Shapes/
 /CatMouse_Prototype 4.3/Saved/Backup/
 /CatMouse_Prototype 4.3/DerivedDataCache/
-/Binaries/*/*.pdb
-/Binaries/*/*Debug*
-/Intermediate
+/CatMouse_Prototype 4.3/Binaries/*/*.pdb
+/CatMouse_Prototype 4.3/Binaries/*/*Debug*
+/CatMouse_Prototype 4.3/Intermediate
+/CatMouse_Prototype 4.3/Saved
